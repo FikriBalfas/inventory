@@ -1,0 +1,10 @@
+{
+    "name": "sihendri/migrations",
+    "authors": [
+        {
+            "name": "fikri",
+            "email": "fikri@waindo.co.id"
+        }
+    ],
+    "require": {}
+}
